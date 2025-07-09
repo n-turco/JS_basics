@@ -38,6 +38,6 @@ console.log(+true) // value is 1
 console.log(+"") // value is 0
 
 let gameCounter = 100
-++gameCounter
+gameCounter++ // incrementing gameCounter
 console.log(gameCounter)
 
